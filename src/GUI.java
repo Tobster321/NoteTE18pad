@@ -16,10 +16,6 @@ public class GUI {
     private JButton button3;
     private JButton resetButton;
     private JTextArea textArea1;
-    private static JMenuItem menuItem;
-    private static JRadioButtonMenuItem rbMenuItem;
-    private static JCheckBoxMenuItem cbMenuItem;
-
 
     // Actions for the shrug button to add a shrug and a button that resets all text in the text field
     public GUI() {
